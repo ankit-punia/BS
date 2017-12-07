@@ -46,7 +46,7 @@ grids of Red-Green-Blue pixel components.
  </br>I created a matrix variable (vector of vector of pixels) to represent an image because images are two-dimensional grids of Red-Green-Blue pixel components.
     
  #### pass-by-value
- main.cpp lines 9-10](/main.cpp)
+ [main.cpp lines 9-10](/main.cpp)
  </br>I created a matrix variable (vector of vector of pixels) to represent an image because images are two-dimensional grids of Red-Green-Blue pixel components.
 
 ## File IO
